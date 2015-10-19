@@ -1,0 +1,5 @@
+The mPOSS molecule is composed of a cubic cage where silicon atoms occupy the cube vertices, and oxygen atoms are located in the cube edges (Figure 1). Thus, each Si atom has a tetrahedral coordination to three O atoms and one methyl group. Methyl substitution by other chemical species makes POSS molecules highly versatile, with applications as organic solvents, polymer dispersants, catalysts, nanocomposites, diodes, and many other uses. In particular, mPOSS has found application as a coating for carbon fibers and low-dielectric films
+
+SINGLE MOLECULE CAPTION: Figure 1. mPOSS molecule composed of Si (yellow), O (red), C (cyan), and H (grey) atoms. Nine different chains of consecutive O-Si-C-H covalent bonds can be constructed for each methyl group, due to the three different oxygen and hydrogen atoms that can be selected at the extremes of the chain.
+
+

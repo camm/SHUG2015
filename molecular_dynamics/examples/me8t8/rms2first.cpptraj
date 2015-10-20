@@ -1,0 +1,5 @@
+trajin run1.dcd
+rms first time 1.0 out rms2first.dat
+trajout run1_rms2first.dcd dcd
+go
+quit
